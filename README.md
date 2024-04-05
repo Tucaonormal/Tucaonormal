@@ -1,4 +1,7 @@
-[![Tucaonormal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tucaonormal)](https://github.com/anuraghazra/github-readme-stats)
+Genie: You have three wishes, but you cannot wish for more wishes  
+Me: Make it 0  
+Genie: Okay, you now have ~~255~~ 4294967295 wishes.
+- Classic Programming Joke, but Updated
 <!--
 **Tucaonormal/Tucaonormal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
